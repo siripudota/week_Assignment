@@ -1,0 +1,4 @@
+attendance_id,student_id,course_id,date,status
+1,1,101,10-04-24,Present
+2,2,102,11-04-24,Absent
+3,3,103,12-04-24,Present
